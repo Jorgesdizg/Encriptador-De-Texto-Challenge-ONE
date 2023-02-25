@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<link rel="shortcut icon" type="image/x-icon" href="./img/logo.svd">
+	<link rel="shortcut icon" type="image/x-icon" href="./img/logo.svg">
 	<title>Encriptador de Texto</title>
 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -16,26 +16,24 @@
 <body>
 	<header>
 		<h1>
-			<img src="./img/logo.png">
-			Encriptador de Texto
+			<img src="./img/logo.png" class="img-logo" alt="Logo Alura">
 		</h1>
 	</header>
 
 	<main>
-		<section>
-			<textarea></textarea>
-			<img src="">
-			<p>Solo letras minúsculas y sin acentos</p>
-			<button>Encriptar</button>
-			<button>Desencriptar</button>
+		<section class="section-message">
+			<textarea id="message" class="textarea-message" placeholder="Ingrese el texto aqui"></textarea>
+			<p class="text-exclamation"><img src="img/bi_exclamation-circle-fill.png" class="img-exclamation" alt="Advertencia">Solo letras minúsculas y sin acentos</p>
+			<button id="encrypt" class="btn-encrypt">Encriptar</button>
+			<button id="decrypt" class="btn-decrypt">Desencriptar</button>
 		</section>
 
-		<section>
-			<textarea></textarea>
-			<img src="./img/muñeco.png" alt="">
-			<p>Ningún mensaje fue encontrado</p>
-			<p>Ingresa el texto que desees encriptar o desencriptar.</p>
-			<button>Copiar</button>
+		<section class="section-show">
+			<textarea id="showmessage" class="textarea-show"></textarea>
+			<img src="./img/muñeco.png" class="img-muneco" alt="Muñeco">
+			<p class="text-warning">Ningún mensaje fue encontrado</p>
+			<p class="text-instruction">Ingresa el texto que desees encriptar o desencriptar.</p>
+			<button class="btn-copy">Copiar</button>
 		</section>
 	</main>
 
