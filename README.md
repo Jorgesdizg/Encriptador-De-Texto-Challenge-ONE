@@ -1,16 +1,17 @@
 # Encriptador de Texto - Challenge ONE
 
-![Encriptador](https://user-images.githubusercontent.com/125604505/221387607-7b0349aa-e29b-4fc8-93d9-4296e6914a14.png)
+![Encriptador](https://user-images.githubusercontent.com/125604505/221387735-99431c76-4eb8-48e6-ba6c-f01c61ec0760.png)
 
 Pagina 👉🏻 https://jorsdg.github.io/Encriptador-De-Texto-Challenge-ONE/
 
+# LLaves de encriptacion y desencriptacion.
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
-La letra "e" es convertida para "enter"
-La letra "i" es convertida para "imes"
-La letra "a" es convertida para "ai"
-La letra "o" es convertida para "ober"
-La letra "u" es convertida para "ufat"
+- La letra "e" es convertida para "enter"
+- La letra "i" es convertida para "imes"
+- La letra "a" es convertida para "ai"
+- La letra "o" es convertida para "ober"
+- La letra "u" es convertida para "ufat"
 
 # Requisitos:
 
