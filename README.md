@@ -2,7 +2,7 @@
 
 ![Encriptador](https://user-images.githubusercontent.com/125604505/221387735-99431c76-4eb8-48e6-ba6c-f01c61ec0760.png)
 
-Pagina 👉🏻 [Click aqui](https://jorsdg.github.io/Encriptador-De-Texto-Challenge-ONE/)
+Pagina 👉🏻 [Click Aqui](https://jorsdg.github.io/Encriptador-De-Texto-Challenge-ONE/)
 
 # LLaves de encriptacion y desencriptacion.
 Las "llaves" de encriptación que utilizaremos son las siguientes:
