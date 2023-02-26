@@ -5,7 +5,7 @@
 Pagina 👉🏻 [Click Aqui](https://jorsdg.github.io/Encriptador-De-Texto-Challenge-ONE/)
 
 # LLaves de encriptacion y desencriptacion.
-Las "llaves" de encriptación que utilizaremos son las siguientes:
+Las "llaves" de encriptación que se utilizan son las siguientes:
 
 - La letra "e" es convertida para "enter"
 - La letra "i" es convertida para "imes"
@@ -13,18 +13,15 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 - La letra "o" es convertida para "ober"
 - La letra "u" es convertida para "ufat"
 
-# Requisitos:
+# Funcionamiento:
 
-Debe funcionar solo con letras minúsculas
+* Solo funciona con letras minúsculas.
 
-No deben ser utilizados letras con acentos ni caracteres especiales
+* No funciona con letras con acentos ni caracteres especiales.
 
-Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
+* Encripta y desencripta las palabras metidas.
+    Por ejemplo:
+      "gato" => "gaitober"
+      gaitober" => "gato"
 
-Por ejemplo:
-"gato" => "gaitober"
-gaitober" => "gato"
-
-La página debe tener campos parainserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
-
-El resultado debe ser mostrado en la pantalla.
+* Tiene botones para encriptar, desencriptar y copiar el texto.
